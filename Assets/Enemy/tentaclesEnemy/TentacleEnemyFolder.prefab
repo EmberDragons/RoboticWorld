@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &812550477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 812550478}
+  m_Layer: 9
+  m_Name: tentaclesEnd4
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &812550478
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 812550477}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.76, y: -0.29, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7079099926038275970}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1975804169
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1975804170}
+  m_Layer: 9
+  m_Name: tentaclesEnd3
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1975804170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1975804169}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.22, y: -0.79, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7079099926038275970}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &759267308472861248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1337783735262533671}
+  m_Layer: 0
+  m_Name: TentacleEnemyFolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1337783735262533671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 759267308472861248}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7079099926038275970}
+  - {fileID: 5969176196034675303}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7079099925281912890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7079099925281912893}
+  m_Layer: 9
+  m_Name: tentaclesEnd2
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7079099925281912893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7079099925281912890}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.95, y: -0.714, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7079099926038275970}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7079099926038275971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7079099926038275970}
+  m_Layer: 0
+  m_Name: tentacleEnds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7079099926038275970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7079099926038275971}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.091574, y: -0.19962955, z: 0.0561824}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7079099927000357994}
+  - {fileID: 7079099925281912893}
+  - {fileID: 1975804170}
+  - {fileID: 812550478}
+  m_Father: {fileID: 1337783735262533671}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7079099927000357995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7079099927000357994}
+  m_Layer: 9
+  m_Name: tentaclesEnd1
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7079099927000357994
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7079099927000357995}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.997, y: 0.163, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7079099926038275970}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5550226392256438317
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1337783735262533671}
+    m_Modifications:
+    - target: {fileID: 2292503049554108999, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_Name
+      value: EnemyTentacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109003, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: hearRange
+      value: 16.218473
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109003, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: seekRange
+      value: 1.1779058
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109003, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: viewAngle
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109003, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: viewRange
+      value: 16.09668
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109003, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: smellRange
+      value: 19.7359
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: Name
+      value: tentacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: Size
+      value: 1.8760369
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: Speed
+      value: 0.7403607
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: _Live
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: FoodWorth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: endurance
+      value: 4.493301
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: jumpLength
+      value: 4.248342
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: attackSpeed
+      value: 2.3625753
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: _Agressivity
+      value: 1.0310488
+      objectReference: {fileID: 0}
+    - target: {fileID: 2292503049554109006, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: attackDamage
+      value: 1.4870495
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314922444209322031, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: tentaclesEnd.Array.data[0]
+      value: 
+      objectReference: {fileID: 7079099927000357994}
+    - target: {fileID: 7314922444209322031, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: tentaclesEnd.Array.data[1]
+      value: 
+      objectReference: {fileID: 7079099925281912893}
+    - target: {fileID: 7314922444209322031, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: tentaclesEnd.Array.data[2]
+      value: 
+      objectReference: {fileID: 1975804170}
+    - target: {fileID: 7314922444209322031, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+      propertyPath: tentaclesEnd.Array.data[3]
+      value: 
+      objectReference: {fileID: 812550478}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+--- !u!4 &5969176196034675303 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2292503049554109002, guid: ac2c01226735bd14c9e863e670d74381, type: 3}
+  m_PrefabInstance: {fileID: 5550226392256438317}
+  m_PrefabAsset: {fileID: 0}
